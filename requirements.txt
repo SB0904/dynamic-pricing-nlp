@@ -1,0 +1,16 @@
+# Core data & modeling libraries
+pandas>=1.5
+numpy>=1.23
+
+# Visualization
+matplotlib>=3.6
+seaborn>=0.12
+
+# NLP
+nltk>=3.8
+
+# Statistical modeling
+statsmodels>=0.14
+
+# Utilities
+scikit-learn>=1.2
